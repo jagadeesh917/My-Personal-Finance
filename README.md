@@ -2,11 +2,13 @@
 
 Personal finance dashboard
 -	It is a Power BI  Project
+
 Project Goal 
 -	Learn power BI and data analytics
 -	Embed analytics into daily life
 -	Bring your own data
 -	Financial literacy / discipline at early age
+
 Questions that will be answered
 -	What is my net worth?
 -	Is my spending pattern right?
@@ -14,6 +16,7 @@ Questions that will be answered
 -	Which months are financially bad/good?
 -	Where/how do I spend?
 -	Where/how do I save?
+
 Key measures
 -	Total Income
 -	Total Expenditure
@@ -27,6 +30,7 @@ Key measures
 -	Savings Variance
 -	Expense Target
 -	Expense Variance
+
 Tool tips pages 
 -	Total expense Tracker
 -	Total Income Tracker
